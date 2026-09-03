@@ -1,0 +1,10 @@
+{
+  "description": "Effortlessly convert markdown text into formatted HTML output, streamlining content creation for writers and developers seeking efficiency and clarity.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
